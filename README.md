@@ -13,3 +13,5 @@ this role, but they don't always suffice. Typical examples are:
  * interfaces that should not be implemented by consumers, but indicate types
    that will be provided by the framework
 
+Inspiration and initial annotation names derived heavily from the kiji project's
+annotations: https://github.com/kijiproject/annotations
