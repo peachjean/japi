@@ -13,7 +13,9 @@ build/
 # maven
 target/
 *.versionsBackup
+*.releaseBackup
 build.number
+release.properties
 
 # common junk
 *.log
