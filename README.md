@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/peachjean/japi.svg)](https://travis-ci.org/peachjean/japi)
+[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+
 japi.io
 =======
 
